@@ -1,6 +1,11 @@
-# Mike Peiman
+# Palette Generator
+### Based largely on the work of [Freddy Christant](https://ferdychristant.com/mastering-color-palettes-with-sass-ed124b1f8920)
 
-Exploring and learning Svelte and Sapper as tools to build my websites and apps
+A palette generator using SCSS to generate consistent tones and shades with opacity from a set of base colors, and to display them in various combinations against various backgrounds to visually assess the aesthetics.
+
+---
+Built on [Sapper](https://sapper.svelte.dev/)
+---
 
 # sapper-template
 
